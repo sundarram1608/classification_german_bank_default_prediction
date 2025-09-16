@@ -1,32 +1,32 @@
 # German Bank Loan Default Prediction
 
 
-**Project Overview:**
+**Project Overview:**<br>
 This project aims to predict loan defaults using historical data from customers of a German bank. The dataset includes various attributes of customers who have taken loans, such as account balances, credit history, loan details, and personal demographics. By applying machine learning techniques, this project seeks to aid the bank by predicting if a customer would default or not based on the historical data.
 
 
-**Dataset:**
-The German_bank.csv file contains data on 1000 customers with the following key attributes:
-- Checking & savings account balances
-- Loan duration & amount
-- Loan purpose & credit history
-- Employment details like job type, duration of employment & percentage of monthly income
-- Personal demographics like age, number of dependents & phone usage (yes/no)
-- Other details like duration at current residence, type of housing, other credits taken & number of credits and default status  
-
+**Dataset:**<br>
+The German_bank.csv file contains data on 1000 customers with the following key attributes:<br>
+- Checking & savings account balances<br>
+- Loan duration & amount<br>
+- Loan purpose & credit history<br>
+- Employment details like job type, duration of employment & percentage of monthly income<br>
+- Personal demographics like age, number of dependents & phone usage (yes/no)<br>
+- Other details like duration at current residence, type of housing, other credits taken & number of credits and default status<br>  
+<br>
 Each entry represents a unique customer, providing a comprehensive view of their personal, professional, financial status and credit history.
 
 
-**Project Structure:**
-The project is organised into several key components:
-- README.txt: The current file you are reading giving an overview of the project.
-- German_bank.csv: The loan default dataset that is provided. 
-- Final Project - Sundar Ram Subramanian.ipynb: This is the python code notebook (Jupyter notebook) that detail the following: 
-	1. Library Import: 
+**Project Structure:**<br>
+The project is organised into several key components:<br>
+- README.md: The current file you are reading giving an overview of the project.<br>
+- German_bank.csv: The loan default dataset that is provided. <br>
+- code_file.ipynb: This is the python code notebook (Jupyter notebook) that detail the following:<br> 
+	1. Library Import: <br>
 		-> Setting up your Python environment with necessary libraries.
-	2. Data Ingestion: 
+	2. Data Ingestion: <br>
 		-> Loading the dataset into your workspace.
-	3. Exploratory Data Analysis (EDA): Assessing data quality and characteristics through:
+	3. Exploratory Data Analysis (EDA): Assessing data quality and characteristics through: <br>
 		-> Overview and statistical summaries.
    		-> Null value checks.
    		-> Analysis of class balance.
