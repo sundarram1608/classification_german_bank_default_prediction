@@ -54,6 +54,6 @@ To set up the project environment and install the necessary library packages, ru
 It is recommended to use a virtual environment. <br>
 
 **Usage:**<br>
-Ensure that German_bank.csv and Final Project - Sundar Ram Subramanian.ipynb are in the same directory.<br>
+Ensure that German_bank.csv and code_file.ipynb are in the same directory.<br>
 The Jupyter Notebook is optimised to work in any Notebook IDE after installation of the required packages.
 
